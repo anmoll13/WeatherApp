@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9807E80D-8FE1-427A-92A7-9094D62FB3AE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46B46165-BBF0-4588-84FA-AB9F96E469DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI-Weather/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0DFCBBE-E4C4-471C-AE89-E13C9E5F4F15"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI-Weather/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2ADE709E-D8CF-436A-95A6-51BF2E3C705E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI-Weather/Manager/WeatherManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getCityCoordinates(enteredCity:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BA2287C-DE51-4858-A6BF-906067C7C724"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI-Weather/Manager/WeatherManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "getCityCoordinates(enteredCity:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2BA2287C-DE51-4858-A6BF-906067C7C724 - be02a250f8174968"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "3671">
+               </Location>
+               <Location
+                  uuid = "2BA2287C-DE51-4858-A6BF-906067C7C724 - e2fa60f9fb85c50e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "930">
+               </Location>
+               <Location
+                  uuid = "2BA2287C-DE51-4858-A6BF-906067C7C724 - 9ef1eec29f604b99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) await resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "55">
+               </Location>
+               <Location
+                  uuid = "2BA2287C-DE51-4858-A6BF-906067C7C724 - 57d32e86fef2412c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "235">
+               </Location>
+               <Location
+                  uuid = "2BA2287C-DE51-4858-A6BF-906067C7C724 - 8488ed2f82603dc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "942">
+               </Location>
+               <Location
+                  uuid = "2BA2287C-DE51-4858-A6BF-906067C7C724 - 8d4ce8e635fdaa2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(10) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "2BA2287C-DE51-4858-A6BF-906067C7C724 - 9ef1eec29f604b99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) await resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "61">
+               </Location>
+               <Location
+                  uuid = "2BA2287C-DE51-4858-A6BF-906067C7C724 - 8488ed2f82603dc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "945">
+               </Location>
+               <Location
+                  uuid = "2BA2287C-DE51-4858-A6BF-906067C7C724 - 8d4ce8e635fdaa2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(10) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "226">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8F347EE-6CA5-4A3D-9C2C-304B432B422D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI-Weather/Manager/WeatherManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getCurrentWeather(latitude:longitude:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A8F347EE-6CA5-4A3D-9C2C-304B432B422D - 48181caccce1ddeb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCurrentWeather(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "3738">
+               </Location>
+               <Location
+                  uuid = "A8F347EE-6CA5-4A3D-9C2C-304B432B422D - 79bb1fe9dcebfea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCurrentWeather(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "328">
+               </Location>
+               <Location
+                  uuid = "A8F347EE-6CA5-4A3D-9C2C-304B432B422D - 48181caccce1dd8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCurrentWeather(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "2554">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B1D4FCC-8727-4B8D-9121-56B3AE0EF280"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI-Weather/Manager/WeatherManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getCurrentWeather(latitude:longitude:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8B1D4FCC-8727-4B8D-9121-56B3AE0EF280 - 48181caccce1dd0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCurrentWeather(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "2001">
+               </Location>
+               <Location
+                  uuid = "8B1D4FCC-8727-4B8D-9121-56B3AE0EF280 - 48181caccce1dd0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCurrentWeather(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1214">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F330EF4-0AAC-4033-85AD-6490DA281219"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI-Weather/Manager/WeatherManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getCurrentWeather(latitude:longitude:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1F330EF4-0AAC-4033-85AD-6490DA281219 - d91fc341ab0898fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCurrentWeather(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "859">
+               </Location>
+               <Location
+                  uuid = "1F330EF4-0AAC-4033-85AD-6490DA281219 - bd6ea7b0cc3a249d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for SwiftUI_Weather.WeatherManager.getCurrentWeather(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "1F330EF4-0AAC-4033-85AD-6490DA281219 - 48181caccce1dcc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCurrentWeather(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "1F330EF4-0AAC-4033-85AD-6490DA281219 - 79bb1fe9dcebec5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCurrentWeather(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "1F330EF4-0AAC-4033-85AD-6490DA281219 - d91fc341ab0898fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCurrentWeather(latitude: Swift.Double, longitude: Swift.Double) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "1018">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAC0004C-B99C-4E79-973D-642CCC38D586"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI-Weather/Manager/WeatherManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "getCityCoordinates(enteredCity:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EAC0004C-B99C-4E79-973D-642CCC38D586 - c752eaacb5a062fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; ()"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "2514">
+               </Location>
+               <Location
+                  uuid = "EAC0004C-B99C-4E79-973D-642CCC38D586 - be02a250f81749ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "3101">
+               </Location>
+               <Location
+                  uuid = "EAC0004C-B99C-4E79-973D-642CCC38D586 - 8488ed2f82603d46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "354">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86C3F554-2AE2-455D-A5AA-31FA721B4A60"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI-Weather/Manager/WeatherManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getCityCoordinates(enteredCity:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "86C3F554-2AE2-455D-A5AA-31FA721B4A60 - 745662d75fb33e12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.CityResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "2977">
+               </Location>
+               <Location
+                  uuid = "86C3F554-2AE2-455D-A5AA-31FA721B4A60 - 28a0ec985879d417"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.CityResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "282">
+               </Location>
+               <Location
+                  uuid = "86C3F554-2AE2-455D-A5AA-31FA721B4A60 - be02a250f81749a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "2465">
+               </Location>
+               <Location
+                  uuid = "86C3F554-2AE2-455D-A5AA-31FA721B4A60 - 5564f19de2221f49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) await resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "86C3F554-2AE2-455D-A5AA-31FA721B4A60 - e2fa60f9fb85c427"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "125">
+               </Location>
+               <Location
+                  uuid = "86C3F554-2AE2-455D-A5AA-31FA721B4A60 - e2fa60f9fb85c5c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "321">
+               </Location>
+               <Location
+                  uuid = "86C3F554-2AE2-455D-A5AA-31FA721B4A60 - 8488ed2f82603ceb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  uuid = "86C3F554-2AE2-455D-A5AA-31FA721B4A60 - 8488ed2f82603d08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "237">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED2FA88F-D829-4F99-8714-4CB1D206BB66"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI-Weather/Manager/WeatherManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getCityCoordinates(enteredCity:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ED2FA88F-D829-4F99-8714-4CB1D206BB66 - 4925e38bf4aace35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "ED2FA88F-D829-4F99-8714-4CB1D206BB66 - 4925e38bf4aace35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "624">
+               </Location>
+               <Location
+                  uuid = "ED2FA88F-D829-4F99-8714-4CB1D206BB66 - 4925e38bf4aace35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "241">
+               </Location>
+               <Location
+                  uuid = "ED2FA88F-D829-4F99-8714-4CB1D206BB66 - 4925e38bf4aace35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "952">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CFD7766-AB3C-4431-9152-FC4984AACA96"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI-Weather/Manager/WeatherManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getCityCoordinates(enteredCity:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4CFD7766-AB3C-4431-9152-FC4984AACA96 - be02a250f8174826"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1503">
+               </Location>
+               <Location
+                  uuid = "4CFD7766-AB3C-4431-9152-FC4984AACA96 - be02a250f8174826"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SwiftUI_Weather.WeatherManager.getCityCoordinates(enteredCity: Swift.String) async throws -&gt; SwiftUI_Weather.WeatherResponse"
+                  moduleName = "SwiftUI-Weather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/answole/Desktop/iOS%20Apps/SwiftUI-Weather/SwiftUI-Weather/Manager/WeatherManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1501">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
